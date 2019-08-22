@@ -2,3 +2,6 @@ This is the first line
 This is the second line
 This line created in localbranch
 Adding a 4th line
+
+def divide(x,y):
+  return x/y
